@@ -1,5 +1,4 @@
-## NOT FINISHED
-
+![status](https://img.shields.io/badge/STATUS-NOT%20FINISHED-critical?style=for-the-badge&logo=github)
 
 
 # MSFT Stock Price Prediction
