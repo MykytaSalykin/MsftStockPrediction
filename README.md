@@ -1,3 +1,7 @@
+## NOT FINISHED
+
+
+
 # MSFT Stock Price Prediction
 
 A Python project to predict Microsoft (MSFT) stock prices using an LSTM neural network with PyTorch. 
